@@ -1,0 +1,29 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Java / Maven
+**/target/
+**/build/
+*.class
+
+# Node / React / Vite
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Logs and crash reports
+*.log
+hs_err_pid*.log
+stockflow-test-context.txt
+
+# IDE and operating system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
