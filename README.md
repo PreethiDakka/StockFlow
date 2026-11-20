@@ -14,6 +14,17 @@ StockFlow is a full-stack inventory and warehouse management application designe
 - **Reports & Analytics:** View inventory-related reports and export data as CSV.
 - **Authentication:** User registration and login with JWT-based authentication.
 - **Security:** Spring Security and BCrypt password hashing.
+## Application Screenshots
+
+### Login Page
+
+![StockFlow Login Page](screenshots/Login.png)
+
+### Dashboard
+
+![StockFlow Dashboard](screenshots/Dashboard.png)
+
+
 
 ## Technology Stack
 
